@@ -81,7 +81,7 @@ Among all tested models, the **tuned LightGBM** achieved the best performance wi
 ## 🚀 Next Steps
 As the next phase of this project, we plan to build an interactive **Streamlit web app** where users can adjust house features (via sliders) and instantly get price predictions using our trained LightGBM model.  
 
-Stay tuned for deployment updates! 🔥
-[view app ]
+Stay tuned for deployment updates! 🔥 '-' : done ☺
+[launch the app](https://house-price-predictions-app-lsbhwvmyn5lidhuanynd6g.streamlit.app/)
 
 
